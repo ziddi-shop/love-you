@@ -17,7 +17,8 @@ A beautifully crafted memory gallery with a surprise intro page. Perfect for che
 │── styles.css          # Styling for both pages
 │── script.js           # JavaScript for music button
 │── img1.jpg, img2.jpg  # Your gallery images (replace with your own)
-│── song.mp3            # Background music (replace with your own)
+│── mp.mp3              # Background music (replace with your own)
+│── mp2.md              # Background music (replace with your own)
 │── README.md           # This file
 ```
 
@@ -33,4 +34,4 @@ git clone https://github.com/ziddi-shop/love-you.git
 ## ❤️ Credits
 💖 Made with love by **Ziddi** 💖
 
-**[👉 Click here to visit the live version](https://ziddi-shop.github.io/love-you/)** (if hosted)
+**[👉 Click here to visit the live version](https://ziddi-shop.github.io/love-you/)** 
